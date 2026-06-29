@@ -1,0 +1,17 @@
+{
+  "name": "WINE 150 · 와인 셀러",
+  "short_name": "WINE 150",
+  "description": "와인 150 품종 · 이마트 대전복합터미널점 가격대별 추천 · 맛/향/마리아주 검색",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#241317",
+  "theme_color": "#5e1622",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

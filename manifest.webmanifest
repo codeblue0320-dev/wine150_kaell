@@ -1,0 +1,12 @@
+{
+  "name": "WINE 200 · 이마트 대전복합터미널점 셀러",
+  "short_name": "WINE 200",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#5e1622",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

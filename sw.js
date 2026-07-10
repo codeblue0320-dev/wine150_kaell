@@ -1,5 +1,5 @@
 /* WINE 200 service worker — core assets precache + runtime image cache */
-const CORE = 'emart-winelist-core-v2';
+const CORE = 'emart-winelist-core-v3';
 const IMGS = 'emart-winelist-img-v2';
 const CORE_ASSETS = ['./','index.html','styles.css','app.js','data.js','manifest.webmanifest','icon-192.png','icon-512.png','icon-180.png'];
 self.addEventListener('install', e => {
